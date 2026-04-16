@@ -6,6 +6,12 @@ src/apicorex.egg-info/SOURCES.txt
 src/apicorex.egg-info/dependency_links.txt
 src/apicorex.egg-info/requires.txt
 src/apicorex.egg-info/top_level.txt
-src/apicorex/core/api_client.py
-src/apicorex/utils/config.py
+src/apicorex/api/api_client.py
+src/apicorex/common/config.py
+src/apicorex/mobile/__init__.py
+src/apicorex/mobile/driver_factory.py
+src/apicorex/ui_core/__init__.py
+src/apicorex/ui_core/base_page.py
+src/apicorex/web/__init__.py
+src/apicorex/web/driver_factory.py
 tests/test_users.py
