@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/apicorex/__init__.py
+src/apicorex.egg-info/PKG-INFO
+src/apicorex.egg-info/SOURCES.txt
+src/apicorex.egg-info/dependency_links.txt
+src/apicorex.egg-info/requires.txt
+src/apicorex.egg-info/top_level.txt
+src/apicorex/core/api_client.py
+src/apicorex/utils/config.py
+tests/test_users.py

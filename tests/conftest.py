@@ -1,7 +1,7 @@
 import pytest
 import logging
-from core.api_client import APIClient
-from utils.config import BASE_URL
+from apicorex.core.api_client import APIClient
+from apicorex.utils.config import BASE_URL
 
 @pytest.fixture(scope="session", autouse=True)
 def setup_logging():
